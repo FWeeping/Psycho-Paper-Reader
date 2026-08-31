@@ -15,7 +15,7 @@ Psycho-Paper-Reader —— An agent-agnostic Skill for evidence-traceable readin
 
 ## What it does
 
-The user selects one of five output scopes. When offering this menu, the Skill gives each option a concise function description in the user's primary language:
+When you provide a paper to your AI Agent and invoke this Skill, you can choose from five output scopes. The Skill presents each option with a concise description in your primary language:
 
 - `Full Analysis`: all four modules.
 - `Chunk 1 — Content Analysis`: paper logic, methods, results, discussion, and relevant visuals.
