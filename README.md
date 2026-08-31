@@ -13,8 +13,6 @@ Perhaps the Psycho-Paper-Reader Skill can help:
 
 Psycho-Paper-Reader —— An agent-agnostic Skill for evidence-traceable reading of psychology and cognitive-neuroscience papers. It turns a user-provided paper into a selectable structured analysis while keeping a clear boundary between what the paper reports, what is interpreted, and what needs verification.
 
-The Skill responds in the primary language of the user's current request. It retains useful source-language terminology, abbreviations, and academic-writing patterns where helpful. If a mixed-language request has no clear primary language, it follows the most recent complete instruction.
-
 ## What it does
 
 The user selects one of five output scopes. When offering this menu, the Skill gives each option a concise function description in the user's primary language:
