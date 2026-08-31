@@ -1,6 +1,17 @@
 # Psychology Paper Reader Skill
 
-An agent-agnostic Skill for evidence-traceable reading of psychology and cognitive-neuroscience papers. It turns a user-provided paper into a selectable structured analysis while keeping a clear boundary between what the paper reports, what is interpreted, and what needs verification.
+As a psychology researcher, do any of these challenges sound familiar?
+
+- Your turn to present a paper at the next lab meeting is coming up, but your slides still are not ready...
+- You finish one section only to forget the previous one, and the paper’s citation logic becomes a tangled mess...
+- Why did the authors use this method? And how do the results support their hypotheses?
+- English is not your first language, and you worry that relying too heavily on translation will not improve your academic reading and writing...
+- You want to cite a paper to support a point in your own manuscript, but do you really need to read the entire lengthy article first?
+- You want to develop your own research ideas from the future directions proposed in a paper...
+
+Perhaps the Psycho-Paper-Reader Skill can help:
+
+Psycho-Paper-Reader —— An agent-agnostic Skill for evidence-traceable reading of psychology and cognitive-neuroscience papers. It turns a user-provided paper into a selectable structured analysis while keeping a clear boundary between what the paper reports, what is interpreted, and what needs verification.
 
 The Skill responds in the primary language of the user's current request. It retains useful source-language terminology, abbreviations, and academic-writing patterns where helpful. If a mixed-language request has no clear primary language, it follows the most recent complete instruction.
 
